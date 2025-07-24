@@ -4,15 +4,16 @@ This repository contains my complete data analysis project for the Ames Housing 
 
 ## 📂 Project Files
 
+- **AmesHousing.csv**  
+  The raw dataset containing detailed information on 2,930 residential property sales in Ames, Iowa.
 - **ames-housing-data-analysis-and-insights.ipynb**  
   The full Jupyter notebook with all code, visualizations, and step-by-step analysis.
-
 - **Ames Housing Data Analysis Report.pdf**  
   The final polished report, including all findings, figures, and interpretations, formatted for submission.
 
 ## 📊 Project Overview
 
-The Ames Housing dataset provides detailed information on 2,930 residential property sales in Ames, Iowa, with 81 features describing each home. The goal of this project was to explore the data, uncover key insights, and demonstrate a full data analysis workflow, including:
+The Ames Housing dataset (included as `AmesHousing.csv` in this repository) provides detailed information on 2,930 residential property sales in Ames, Iowa, with 81 features describing each home. The goal of this project was to explore the data, uncover key insights, and demonstrate a full data analysis workflow, including:
 
 - Data summary and exploration plan
 - Exploratory Data Analysis (EDA) with visualizations
@@ -40,8 +41,9 @@ This project was completed for the [Exploratory Data Analysis for Machine Learni
 ## 🚀 How to Use
 
 1. Clone this repository.
-2. Open `ames-housing-data-analysis-and-insights.ipynb` in Jupyter or on [nbviewer](https://nbviewer.org/).
-3. Review the PDF report for a concise, narrative summary of the project.
+2. The dataset (`AmesHousing.csv`) is included for convenience—no need to download separately.
+3. Open `ames-housing-data-analysis-and-insights.ipynb` in Jupyter or on [nbviewer](https://nbviewer.org/).
+4. Review the PDF report for a concise, narrative summary of the project.
 
 ## 🔗 View on Kaggle
 
